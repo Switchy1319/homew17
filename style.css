@@ -48,6 +48,7 @@ body{
     margin-left: 25px;
     cursor: pointer;
     margin-top: 15px;
+    font-weight: 400;
 }
 .how{
     color: #4B4C5F;
@@ -156,3 +157,22 @@ margin-top: 18px;
     font-weight: bold;
 }
 
+.how:hover{
+    color: #F47B56;
+}
+.what:hover{
+    color: #F47B56;
+}
+.wha:hover{
+    color: #F47B56;
+}
+.wh:hover{
+    color: #F47B56;
+}
+.w:hover{
+    color: #F47B56;
+}
+.a{
+
+    font-weight: bold;
+}

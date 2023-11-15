@@ -50,7 +50,8 @@ let i = document.querySelector('.i')
 
 l.addEventListener('click', () => {
     gamqa.classList.toggle('act')
-    l.classList.toggle('sh')
+
     i.classList.toggle('am')
+    l.classList.toggle('a')
 })
 
